@@ -33,7 +33,7 @@ Dalam pengujian menggunakan metode ECP, setidaknya satu pengujian harus dilakuka
 
 
 ## Screenshots
-![App Screenshot](https://i.postimg.cc/VNP3sZyK/ecp.png)
+![ECP](https://i.postimg.cc/VNP3sZyK/ecp.png)
 
 # State Transition Testing
 
@@ -48,4 +48,4 @@ Untuk menguji setiap transisi antar state, dilakukan pengujian dengan memberikan
 
 
 ## Screenshots
-![App Screenshot](https://i.postimg.cc/mD4x2X9b/stt.png)
+![STT](https://i.postimg.cc/mD4x2X9b/stt.png)
